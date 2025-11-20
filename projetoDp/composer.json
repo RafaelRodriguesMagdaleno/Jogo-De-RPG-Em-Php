@@ -1,0 +1,18 @@
+{
+    "name": "rafae/projeto-dp",
+    "description": "Jogo de Rpg com CLI",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rpg\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rafael.Magdaleno",
+            "email": "136714806+RafaelMagdaleno@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
